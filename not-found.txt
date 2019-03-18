@@ -1,0 +1,12 @@
+2 classes not found in installed extension
+	Swoole\Serialize
+	Swoole\Coroutine\PostgreSQL
+
+3 methods not found in installed extension
+	Swoole\MySQL::escape
+	Swoole\Coroutine\MySQL::escape
+	Swoole\Server::getReceivedTime
+
+1 functions not found in installed extension
+	swoole_coroutine_gethostbyname
+
