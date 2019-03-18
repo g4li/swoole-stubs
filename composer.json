@@ -1,0 +1,10 @@
+{
+  "name": "g5li/swoole-stubs",
+  "description": "stubs for swoole",
+  "keywords": [
+    "swoole",
+    "stubs",
+    "ide-helper"
+  ],
+  "type": "library"
+}
